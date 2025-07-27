@@ -14,8 +14,8 @@ last_alert_time = {}
 
 # Time to wait before logging the same IP again (in seconds)
 ALERT_COOLDOWN = 30
-
-WHITELISTED_IPS = {"20.189.173.4", "192.168.1.1",
+#edit the IPs based on ur local repeated ones to be jumped automatically
+WHITELISTED_IPS = {"20.189.0.0", "192.168.0.0",
                    }
 
 
